@@ -1,0 +1,12 @@
+@import "tailwindcss";
+@plugin "daisyui";
+
+.hover{
+    @apply hover:text-red-500;
+}
+.toast-message{
+    background: darkblue;
+    color: aliceblue;
+    font-size: 20px;
+    
+}

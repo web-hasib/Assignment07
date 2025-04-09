@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Vintage Leather Bag",
+    "description": "Handcrafted vintage leather bag with premium quality.",
+    "currentBidPrice": 85.50,
+    "timeLeft": "2d 5h",
+    "bidsCount": 12,
+    "image": "https://images-cdn.ubuy.ae/6368124f0a547006b811d1aa-newhey-mens-laptop-shoulder-canvas.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Classic Wooden Chair",
+    "description": "Elegant wooden chair perfect for living room or office.",
+    "currentBidPrice": 150.00,
+    "timeLeft": "1d 12h",
+    "bidsCount": 8,
+    "image": "https://operafurniture.com.bd/wp-content/uploads/2024/04/Untitled-3.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Retro Wall Clock",
+    "description": "Decorative retro wall clock, adds a touch of nostalgia.",
+    "currentBidPrice": 60.75,
+    "timeLeft": "3d 3h",
+    "bidsCount": 15,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9OSD8e2SbzwWl-R2Y7UGlufqU_42qE1tM2w&s"
+  },
+  {
+    "id": 4,
+    "title": "Mountain Bike",
+    "description": "Durable mountain bike suitable for all terrains.",
+    "currentBidPrice": 320.00,
+    "timeLeft": "4d 20h",
+    "bidsCount": 22,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB9Ydh8DBqJRrdK1v9FyGRIRgaIoAkIMGPkw&s"
+  },
+  {
+    "id": 5,
+    "title": "Digital Camera",
+    "description": "High-resolution digital camera with 4K recording.",
+    "currentBidPrice": 450.00,
+    "timeLeft": "1d 8h",
+    "bidsCount": 30,
+    "image": "https://preview.redd.it/what-are-the-most-desirable-vintage-digital-cameras-v0-jx0tju73icwb1.jpeg?width=4032&format=pjpg&auto=webp&s=5e7e2f0b2cde2fa160b07918025707db057f64f5"
+  },
+  {
+    "id": 6,
+    "title": "Ceramic Vase",
+    "description": "Artisan ceramic vase, hand-painted and unique.",
+    "currentBidPrice": 75.25,
+    "timeLeft": "5d 2h",
+    "bidsCount": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX2EVZT9dSiNn7_795laxeo03Fme1H03wsqw&s"
+  },
+  {
+    "id": 7,
+    "title": "Wireless Headphones",
+    "description": "Noise-canceling wireless headphones with long battery life.",
+    "currentBidPrice": 120.00,
+    "timeLeft": "2d 18h",
+    "bidsCount": 18,
+    "image": "https://martsbd.com/wp-content/uploads/2023/08/Baseus-Bowie-H2-Noise-Cancelling-Wireless-Headphone-Bluetooth-5.2-300x300.webp"
+  },
+  {
+    "id": 8,
+    "title": "Gaming Laptop",
+    "description": "High-performance gaming laptop with latest GPU.",
+    "currentBidPrice": 1350.00,
+    "timeLeft": "6d 10h",
+    "bidsCount": 40,
+    "image": "https://computermania.com.bd/wp-content/uploads/2025/03/0_12_un.34nsi.002_2.webp"
+  }
+]
